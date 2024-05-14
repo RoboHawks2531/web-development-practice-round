@@ -1,0 +1,23 @@
+h1 {
+   text-align: center;
+   font-family: "papyrus", fantasy; 
+}
+
+.biggie {
+    background-color: blueviolet;
+    width: 100%;
+    height: 1000px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+button {
+    background: url(../Images/2000.jpeg);
+    background-position: center;
+    height: 1000px;
+    width: 500px;
+}
+img {
+    height: 200px;
+    width: 200px
+}
